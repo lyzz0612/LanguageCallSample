@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": ";AACA,IAAI,UAAU,GAAG,EAAE,CAAA;AACnB,MAAM,CAAC,UAAU,GAAG,UAAU,CAAA;;AAE9B,UAAU,CAAC,UAAU,GAAG,UAAU,IAAI,EAAE,EAEvC,CAAA;AACD,UAAU,CAAC,YAAY,GAAG,UAAU,IAAI,EAAE,EAEzC,CAAA;AACD,UAAU,CAAC,WAAW,GAAG,UAAU,IAAI,EAAE,EAExC,CAAA",
+  "file": "unknown",
+  "sourcesContent": [
+    "\nvar GlobalFunc = {}\nwindow.GlobalFunc = GlobalFunc\n\nGlobalFunc.OCCallBack = function (args) {\n\n}\nGlobalFunc.JavaCallBack = function (args) {\n\n}\nGlobalFunc.CppCallBack = function (args) {\n\n}"
+  ]
+}
