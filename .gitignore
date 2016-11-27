@@ -2,3 +2,8 @@ local/
 library/
 temp/
 .DS_Store
+
+*.class
+bin/
+
+
