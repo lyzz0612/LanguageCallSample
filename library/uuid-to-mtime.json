@@ -220,18 +220,18 @@
     "relativePath": "prefab/webview.prefab"
   },
   "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
-    "asset": 1480078232000,
-    "meta": 1480078234000,
+    "asset": 1480079914000,
+    "meta": 1480213338000,
     "relativePath": "Scene"
   },
   "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
-    "asset": 1480078232000,
-    "meta": 1480078234000,
+    "asset": 1480080117000,
+    "meta": 1480213339000,
     "relativePath": "Script"
   },
   "2d2f792f-a40c-49bb-a189-ed176a246e49": {
-    "asset": 1480080591000,
-    "meta": 1480080591000,
+    "asset": 1480225151000,
+    "meta": 1480225151000,
     "relativePath": "Scene/LanguageCall.fire"
   },
   "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
@@ -249,14 +249,14 @@
     "meta": 1480078235000,
     "relativePath": "Texture/HelloWorld.png"
   },
-  "280c3aec-6492-4a9d-9f51-a9b00b570b4a": {
-    "asset": 1480080089000,
-    "meta": 1480080098000,
-    "relativePath": "Script/LanguageCall.js"
-  },
   "7e8fd116-2022-46c5-a5d7-481280850db7": {
-    "asset": 1480080204000,
-    "meta": 1480080215000,
+    "asset": 1480218579000,
+    "meta": 1480218608000,
     "relativePath": "Script/GlobalFunc.js"
+  },
+  "280c3aec-6492-4a9d-9f51-a9b00b570b4a": {
+    "asset": 1480229882000,
+    "meta": 1480231014000,
+    "relativePath": "Script/LanguageCall.js"
   }
 }
